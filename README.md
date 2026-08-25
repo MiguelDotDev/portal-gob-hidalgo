@@ -55,7 +55,14 @@ Son los lenguajes, recursos y frameworks usados en el proyecto:
    - #### Diseño de la Página Original<br><br> ![Automóviles A](assets/p11.gif)<br><br>
 
 ## ¿Cómo probar el proyecto?  
+### Ingresa a la Demo del proyecto AQUI
+<p align="center">
+  <a href="https://migueldotdev.github.io/portal-gob-hidalgo/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/DEMO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Demo">
+  </a>
+</p>
 
+### Puedes descargarlo tambien
 1. Clonar o descargar este mismo repositorio:  
    ```bash
    git clone https://github.com/MiguelDotDev/portal-gob-hidalgo.git
