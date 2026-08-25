@@ -57,8 +57,8 @@ Son los lenguajes, recursos y frameworks usados en el proyecto:
 ## ¿Cómo probar el proyecto?  
 ### Ingresa a la Demo del proyecto AQUI
 <p align="center">
-  <a href="https://migueldotdev.github.io/portal-gob-hidalgo/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Demo">
+  <a href="https://migueldotdev.github.io/portal-gob-hidalgo/index.html">
+    <img src="https://img.shields.io/badge/DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=1a1a1a&border=1" alt="Demo" />
   </a>
 </p>
 
