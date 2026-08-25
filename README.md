@@ -1,5 +1,5 @@
 # Sitio Web de Gobierno de Hidalgo
-Este fue un **Proyecto Universitario** que consistió en realizar un sitio web sobre el **Gobierno de Hidalgo** en el lapso de un día. El proyecto consistió en **crear una propuesta** sobre el [sitio web oficial](https://www.hidalgo.gob.mx/), que mejorara aspectos del diseño y estilos originales para tener una mejor estética de la página en ese momento.
+Este fue un **Proyecto Universitario** que consistió en realizar un sitio web sobre el **Gobierno de Hidalgo** en el lapso de **un día**. El proyecto consistió en **crear una propuesta** sobre el [sitio web oficial](https://www.hidalgo.gob.mx/), que mejorara aspectos del diseño y estilos originales para tener una mejor estética de la página en ese momento.
 
 ## Notas
 - Este proyecto fue desarrollado únicamente con fines educativos y no está afiliado al **[Gobierno del Estado de Hidalgo](https://www.ford.mx/)**.<br>
@@ -56,11 +56,9 @@ Son los lenguajes, recursos y frameworks usados en el proyecto:
 
 ## ¿Cómo probar el proyecto?  
 ### Ingresa a la Demo del proyecto AQUI
-<p align="center">
-  <a href="https://migueldotdev.github.io/portal-gob-hidalgo/index.html">
-    <img src="https://img.shields.io/badge/DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a&color=1a1a1a&border=1" alt="Demo" />
-  </a>
-</p>
+<a href="https://migueldotdev.github.io/portal-gob-hidalgo/index.html">
+  <img src="https://img.shields.io/badge/▶_DEMO-ffffff?style=for-the-badge&logoColor=000000&labelColor=ffffff&color=ffffff&border=2px+solid+black" alt="Demo" height="50" />
+</a>
 
 ### Puedes descargarlo tambien
 1. Clonar o descargar este mismo repositorio:  
